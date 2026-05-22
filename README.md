@@ -2,11 +2,11 @@
 <!--                PREMIUM DYNAMIC GITHUB PROFILE             -->
 <!-- ========================================================= -->
 <!-- Replace all placeholders before using                     -->
-<!-- YOUR_NAME                                                 -->
-<!-- YOUR_GITHUB_USERNAME                                      -->
+<!-- Praveen Pathange                                                 -->
+<!-- PraveenPatange                                      -->
 <!-- YOUR_ROLE                                                 -->
-<!-- YOUR_LOCATION                                             -->
-<!-- YOUR_EMAIL                                                -->
+<!-- Hyderabad                                             -->
+<!-- praveenrao556@gmail.com                                                -->
 <!-- YOUR_LINKEDIN                                             -->                                            -->
 <!-- YOUR_PORTFOLIO                                            -->
 <!-- ========================================================= -->
